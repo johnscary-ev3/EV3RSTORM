@@ -1,2 +1,4 @@
 # EV3RSTORM
-EV3RSTORM expanded
+EV3RSTORM 
+Modified to have two scanning Sonic sensors to detect objects.
+Also has second IR sensor just for Beacon location and navigartion.
